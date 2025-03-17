@@ -154,4 +154,10 @@ img {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    img {
+        max-width: 75%; 
+        height: auto; 
+        border-radius: 8px; 
+    }
 }
